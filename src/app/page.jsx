@@ -42,7 +42,7 @@ export default function Home() {
       <ul className="flex flex-col gap-4">
         {socialLinks.map((socialLink) => {
           return (
-            <li key={socialLink.name} className="w-full bg-[#333333] rounded-md text-center px-4 py-1">
+            <li key={socialLink.name} className="w-full bg-[#333333] rounded-md text-center px-4 py-1 hover:bg-[#c5f82a] hover:text-[#333333]">
               <Link href={socialLink.url}>{socialLink.name}</Link>
             </li>
           );
