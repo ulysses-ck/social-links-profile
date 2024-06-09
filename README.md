@@ -22,7 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/ulysses-ck/social-links-profile/assets/50756389/78f18298-5a72-4010-a18a-eebcd5902d12)
+
 
 ### Links
 
